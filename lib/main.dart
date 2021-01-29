@@ -146,7 +146,7 @@ class StudentRoute_state extends State<StudentRoute> {
               ),
               padding: const EdgeInsets.all(10.0),
               child:
-              const Text('Register', style: TextStyle(fontSize: 20)),
+              const Text('Login', style: TextStyle(fontSize: 20)),
             ),
           ),
         ],
@@ -222,7 +222,7 @@ class TeachersRoute_class extends State<TeachersRoute> {
           ),
           padding: const EdgeInsets.all(10.0),
           child:
-          const Text('Register', style: TextStyle(fontSize: 20)),
+          const Text('Login', style: TextStyle(fontSize: 20)),
         ),
       ),
     ],
